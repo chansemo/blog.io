@@ -18,4 +18,4 @@ header-img: "img/orange.jpg"
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
-</ul></ul>
+</ul>
