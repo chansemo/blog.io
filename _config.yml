@@ -13,11 +13,11 @@ owner:
   bio: "用来记录生活学习和有趣的事" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/icon.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/icon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
-twitter_username: 
+douban_username:佩芷 # 你的豆瓣id
+twitter_username:BaPig 
 github_username: 
 facebook_username: 
 weibo_username: 
