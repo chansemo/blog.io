@@ -8,9 +8,9 @@ url: "http://chishuzero.xyz"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "某只深爱梶原空和吃书妖怪的宅" # 填写作者信息：名字
+  email: chishuyaoguai@qq.com # 填写作者信息：邮箱
+  bio: "用来记录生活学习和有趣的事" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
