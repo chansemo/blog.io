@@ -7,9 +7,20 @@ tags: [学习笔记,html]
 description: 一些html基础，下次更c
 ---
 
-<h1>关于html标记语言的学习笔记1</h1>
->本文主要来自[bootswatch~一个可以在线生成html代码的网站](https://bootswatch.com/cosmo/)
-##
+>本文主要摘自[bootswatch~一个可以在线生成html代码的网站](https://bootswatch.com/cosmo/)
+
+<h2>chapter1:字体和字形</h2>
+
+<h3>不同等级的标题：</h3>
+
+<p><h1>Heading 1</h1>:<strong><h1>Heading 1</h1></strong></p>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+
 
 
 
