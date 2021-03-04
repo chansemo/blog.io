@@ -6,12 +6,21 @@ categories: blog
 tags: [杂谈,大学]
 description: 听完周郴保老师的思修课后的我的一些感悟···
 ---
-
->本文主要摘自[bootswatch~一个可以在线生成html代码的网站](https://bootswatch.com/cosmo/)和[luckyzhoustar先生的总结](https://blog.csdn.net/luckyzhoustar/article/details/34497947)
-<h2>chapter1:字体和字形</h2>
-
-<h3>不同等级的标题：</h3>
-
+>源自建大周老师的启发：
+<h2>上大学的意义何在？</h2>
+<h3></h3>
+<p>
+	说实话，最近有些找不到上大学的意义……我那天对L说了我有点不太想上大学，居然被他笑了……
+	虽然究其原因不是学习上的事，但由于种种原因，有些心烦意乱，
+	无力感十足。我感觉我在一些方面很不行
+	，尤其是在与人相处，我觉得好累
+	所以我开始思考存在的意义如何如何，
+	无果。
+</p>
+<p>
+	其实一开始我是抱着听听相声放松的心态来上他的思修的（这就是所谓大学生吗hhh）
+	
+</p>
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
