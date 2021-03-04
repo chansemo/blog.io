@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 关于html标记语言的学习笔记1
-date: 2021-2-08
+title: 什么是大学，我为什么要上大学
+date: 2021-03-04
 categories: blog
-tags: [学习笔记,html]
-description: 一些html基础，下次更c
+tags: [杂谈,大学]
+description: 听完周郴保老师的思修课后的我的一些感悟···
 ---
 
 >本文主要摘自[bootswatch~一个可以在线生成html代码的网站](https://bootswatch.com/cosmo/)和[luckyzhoustar先生的总结](https://blog.csdn.net/luckyzhoustar/article/details/34497947)
